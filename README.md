@@ -51,9 +51,6 @@
 
 📺 **[Watch Demo on YouTube](https://youtu.be/pS8VqLD_hNE?si=G-iwP2LIDIFVm5kL)**
 
-*(หรือถ้าต้องการให้แสดงเป็นรูป Thumbnail กดได้เลย สามารถใช้โค้ดนี้แทนครับ)*
-*[! [System Demo] (https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)] (https://www.youtube.com/watch?v=YOUR_VIDEO_ID)*
-
 ---
 
 ## ส่วนการแสดงผลระบบ (System Screenshots)
